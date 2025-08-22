@@ -3,6 +3,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+# Name :  Abishek Priyan M
+# Reg.no : 212224240004
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
